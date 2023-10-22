@@ -12,7 +12,7 @@
 ## How to Make Caffè Latte
 
 ### Step 1
-
+#this from clone folder.
 - Prepare espresso shot and pour into mug once brewed.
 
 ### Step 2

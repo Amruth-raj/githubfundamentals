@@ -8,16 +8,11 @@
 - 1 cup whole milk
 - Milk frother
 - Optional sweetener
-
+ -sdfdsfsd
 ## How to Make Caffè Latte
 
 ### Step 1
-#this from clone folder.
-- Prepare espresso shot and pour into mug once brewed.
-
-### Step 2
-
-- Stir in optional sweetener.
+git 
 
 ### Step 3
 

@@ -3,7 +3,7 @@
 ## Description: Make a batch of Cinnamon Dolce Syrup ahead and treat guests (or yourself) to a deliciously refreshing moment anytime
 
 ## Ingredients
-
+# ADDing icecreams.
 - 1 cup sugar
 - 3/4 cup cane sugar
 - 1/4 cup of brown sugar
